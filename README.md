@@ -1,6 +1,6 @@
 # GrpcElixir
 
-**TODO: Example followed using: https://blog.appsignal.com/2020/03/24/how-to-use-grpc-in-elixir.html**
+**Example followed using: https://blog.appsignal.com/2020/03/24/how-to-use-grpc-in-elixir.html**
 
 ## Installation
 
