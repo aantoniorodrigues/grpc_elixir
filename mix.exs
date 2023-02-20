@@ -23,7 +23,8 @@ defmodule GrpcElixir.MixProject do
   defp deps do
     [
       {:grpc, "~> 0.5.0-beta"},
-      {:cowlib, "~> 2.8.0", hex: :grpc_cowlib, override: true}
+      {:cowlib, "~> 2.8.0", hex: :grpc_cowlib, override: true},
+      {:protobuf, "~> 0.10.0"}
     ]
   end
 end
